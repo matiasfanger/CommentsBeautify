@@ -3,7 +3,7 @@
 
 
 #### menu
-![image](https://i.gyazo.com/9e1b437f64907e9f63e18894c47a3998.mp4)
+![gif](https://i.gyazo.com/9e1b437f64907e9f63e18894c47a3998.gif)
                                               
 
 ## Installation
