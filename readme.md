@@ -38,8 +38,13 @@ Please make sure to update tests as appropriate.
 ## To-do List
 
 * Improve the code
-* Make the code less ugly (Sorry for that).
-* Make a gui!
+* Add support for all chars
+* Fix the # from the end of each line
+
+## Bugs list
+
+* Sometimes it doesn't make it perfect
+
 
 ## License
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
