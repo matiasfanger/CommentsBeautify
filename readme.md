@@ -4,12 +4,10 @@
 
 #### How it works
 
-1. Create a .txt file with your text inside
-2. Run it with
-
-```
-python main.py "TXT PATH FILE"
-```                                              
+1. Create a .txt file with your text inside.
+2. Prepare your text (Remove rare or unused characters because throws error)
+3. Separate your lines with 'Enter'
+2. Run it (See usage section below)               
 
 ## Installation
 
