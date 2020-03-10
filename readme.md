@@ -1,35 +1,36 @@
 # CommentsBeautify
 
-
-
-#### menu
 ![gif](https://i.gyazo.com/9e1b437f64907e9f63e18894c47a3998.gif)
-                                              
+
+#### How it works
+
+1. Create a .txt file with your text inside
+2. Run it with
+
+```
+python main.py "TXT PATH FILE"
+```                                              
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install linksaver
+pip install CommentsBeautify-mf
 ```
 
 ## Usage
 
 ### For windows
-WORKING
+```
+python main.py "TXT PATH FILE"
+```   
 
 ### Linux
 NOT TESTED
 
 ### Mac
 NOT TESTED
-
-## What you can do
-* Add/remove links and open it
-* Set password for the program (Soon encrypted config and data files)
-* Switch between Firefox and Chrome browser
-* Switch between Stealth mode (xxx)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -40,8 +41,6 @@ Please make sure to update tests as appropriate.
 
 * Improve the code
 * Make the code less ugly (Sorry for that).
-* AutoCheck for links.
-* Encrypt data.
 * Make a gui!
 
 ## License
