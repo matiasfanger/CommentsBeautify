@@ -1,13 +1,9 @@
-# LINK SAVER
+# CommentsBeautify
 
-First project on github, but not the first done. You may wonder why im making this and what utility i give to it. 
 
-I have too many links saved in notepads, which I can't save in bookmarks for some reasons and its imposible to open one by one. 
-
-This is console based. This program make my life a little bit easier, and i hope it does for you. 
 
 #### menu
-![image](https://i.gyazo.com/2ae7ecaa71a73fec08977b1291940ac8.png)
+![image](https://i.gyazo.com/9e1b437f64907e9f63e18894c47a3998.mp4)
                                               
 
 ## Installation
